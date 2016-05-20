@@ -4,8 +4,15 @@
         <description><![CDATA[The New Town]]></description>
         <link>https://thegrid.ai/the-new-town/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 01:49:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 01:49:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-new-town/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bc750dc-067e-432c-86db-b4cabfb9d66e.jpg">]]></description>
+            <link>https://thegrid.ai/the-new-town/d0d6a42a-244e-4de9-8000-e908b163160a/index.html</link>
+            <guid isPermaLink="false">d0d6a42a-244e-4de9-8000-e908b163160a</guid>
+            <pubDate>Fri, 20 May 2016 01:49:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/272cc935-a42f-402e-8b66-c98f7bdc9679.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Kazuyo Sejima to Design Next Generation Express Train that Melds Into the Environment</h1><p>In a press release issued overnight in Japan, Seibu Group announced plans for a new Limited Express train that would be designed by Kazuyo Sejima. Working with the train operator's design team, the architect - one half of the Pritzker-winning studio SANAA - has proposed a concept for Seibu'</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d428acceaf4789ee96d43cbcfb33a4bb52fd329d.jpg"></article>]]></description>
             <link>http://www.spoon-tamago.com/2016/03/14/kazuyo-sejima-to-design-next-generation-bullet-train-that-melds-into-the-environment/</link>
             <guid isPermaLink="false">0ac48dd2-4cad-4992-bd78-403d71e3a80e</guid>
-            <pubDate>Fri, 20 May 2016 01:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2016 heralds beginning of the "megatall" skyscraper era]]></title>
-            <description><![CDATA[<article><h1>2016 heralds beginning of the "megatall" skyscraper era</h1><p>The number of skyscrapers over 600 metres high - known as "megatalls" - is set to more than double in the next few years, say experts. Skyscraper authority the Council on Tall Buildings and Urban Habitat (CTBUH) has revealed that the number of 600-metre-plus buildings in the world is set to rise from three to seven in the next five years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dc254f102a656394610b9763b92e10cf71a534a.jpg"></article>]]></description>
-            <link>http://www.dezeen.com/2016/01/22/2016-megatall-skyscraper-era-council-tall-buildings-urban-habitat-ctbuh/</link>
-            <guid isPermaLink="false">8bc0b73c-e959-4f99-948e-edd3944e2eee</guid>
             <pubDate>Fri, 20 May 2016 01:13:44 GMT</pubDate>
         </item>
     </channel>
