@@ -1,14 +1,26 @@
-layout_spectrum: 0.4722115269396454
-typography_spectrum: 0.78553984221071
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.37499752058647573
-  lightness: 0.1910088260192424
   saturation: 0.7297286870889366
-  rhythmicContrast: 0.9234288525767624
+  brandStrength: 0.7680851
+  lightness: 0.1910088260192424
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#F1E9D4'
+    - '#71B3B3'
+    - '#BB1E1D'
+    - '#988465'
+    - '#030003'
+  rhythmicContrast: 0.9234288525767624
+typography_spectrum: 0.5340425
+layout_spectrum: 1
 name: The New Town
